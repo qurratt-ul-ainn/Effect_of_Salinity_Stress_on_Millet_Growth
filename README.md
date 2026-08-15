@@ -418,7 +418,7 @@ The statistical workflow is organised around the biological question.
 
 The analysis does not begin with a single statistical test. It proceeds from description to validation, inference and interpretation.
 
-## Stage 1 — Descriptive statistics
+## Stage 1: Descriptive statistics
 
 For every response variable and treatment, the workflow calculates:
 
@@ -431,7 +431,7 @@ This provides an initial picture of how plant performance changes across salinit
 
 ---
 
-## Stage 2 — Assumption checks
+## Stage 2: Assumption checks
 
 For each response, the analysis examines:
 
