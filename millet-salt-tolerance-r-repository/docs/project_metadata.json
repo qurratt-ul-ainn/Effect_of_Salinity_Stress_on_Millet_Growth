@@ -1,0 +1,27 @@
+{
+  "language": "R",
+  "html_source_files": false,
+  "raw_data_file": "millet_salt_tolerance_dataset.xlsx",
+  "observations": 15,
+  "columns": [
+    "Pot_ID",
+    "Treatment",
+    "Salinity_Level",
+    "Target_EC_dS_m",
+    "Replication",
+    "Soil_per_Pot_kg",
+    "NaCl_per_Pot_g_if_EC10",
+    "Seeds_Sown",
+    "Plants_Emerged",
+    "Emergence_pct",
+    "Plant_Height_cm",
+    "Leaves_per_Plant",
+    "Root_Length_cm",
+    "Shoot_Fresh_Weight_g",
+    "Shoot_Dry_Weight_g",
+    "Root_Fresh_Weight_g",
+    "Root_Dry_Weight_g",
+    "Total_Dry_Biomass_g",
+    "Relative_Growth_pct"
+  ]
+}
