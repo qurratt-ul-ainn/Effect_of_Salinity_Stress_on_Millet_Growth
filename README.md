@@ -151,15 +151,15 @@ The current dataset does **not** provide sufficient information to reconstruct t
 
 Therefore, this repository does not assume or invent:
 
-- the exact NaCl preparation procedure;
-- stock-solution concentration;
-- solution volume applied per pot;
-- exact EC adjustment procedure;
-- irrigation frequency;
-- irrigation volume;
-- timing of salt application;
-- frequency of EC measurement;
-- or the exact relationship between NaCl quantity and target EC.
+- the exact NaCl preparation procedure
+- stock-solution concentration
+- solution volume applied per pot
+- exact EC adjustment procedure
+- irrigation frequency
+- irrigation volume
+- timing of salt application
+- frequency of EC measurement
+- or the exact relationship between NaCl quantity and target EC
 
 If these details are available in the original experimental notebook, they should be added to this README before the repository is used as a complete experimental methods record.
 
@@ -961,7 +961,7 @@ The analytical workflow follows the same logic: describe the observations, test 
 
 ---
 
-## 👥 Research Team
+## Research Team
 
 ### Qurrat-ul-Ain & Moazzam Riaz
 
