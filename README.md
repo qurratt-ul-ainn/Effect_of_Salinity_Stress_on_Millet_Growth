@@ -963,7 +963,7 @@ The analytical workflow follows the same logic: describe the observations, test 
 
 # 31. Author
 
-## Qurrat-ul-Ain
+## Qurrat-ul-Ain & Moazzam Riaz
 
 **Soil Science | Experimental Research | GIS & Environmental Data Analysis**
 
@@ -978,11 +978,8 @@ Research interests:
 - Climate-smart land management
 
 ---
-
 ## Reproducibility Statement
 
-This repository is intentionally transparent about the boundary between **recorded experimental information** and **information that still requires documentation**.
+The analysis is designed to be fully traceable from the original experimental data through data cleaning, statistical analysis, visualization, and interpretation.
 
-No cultivar, soil property, irrigation schedule, experimental duration, environmental condition, salt-preparation procedure or analytical formula has been invented where it is not supported by the current experimental record.
-
-The objective is to make the analysis reproducible without compromising the scientific integrity of the original experiment.
+Only experimentally documented information is reported; undocumented methodological details are not assumed or inferred.
