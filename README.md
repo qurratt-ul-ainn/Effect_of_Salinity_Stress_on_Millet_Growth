@@ -1,4 +1,4 @@
-# 🌱 Millet Response to Increasing Soil Salinity
+#  Millet Response to Increasing Soil Salinity
 ### A Reproducible R Analysis of a Controlled Pot Experiment
 
 <p align="center">
