@@ -8,7 +8,6 @@
 <p align="center">
   <strong>Experimental Research • Soil Salinity • Plant Growth • Biomass • R </strong>
 </p>
----
 
 ## 1. Project Overview
 
