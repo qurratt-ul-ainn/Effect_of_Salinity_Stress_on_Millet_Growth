@@ -2,7 +2,7 @@
 ### A Reproducible R Analysis of a Controlled Pot Experiment
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6A994E&height=180&section=header&text=Millet%20Response%20to%20Salinity&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Controlled%20Pot%20Experiment%20%7C%20Reproducible%20R%20Analysis&descAlignY=62&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6A994E&height=180&section=header&text=Millet%20Response%20to%20Salinity&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Controlled%20Pot%20Experiment&descAlignY=62&descSize=16"/>
 </p>
 
 <p align="center">
