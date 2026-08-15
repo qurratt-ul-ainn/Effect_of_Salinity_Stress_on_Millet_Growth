@@ -975,6 +975,4 @@ Soil Science • Soil Salinity • Experimental Research • Plant–Soil Intera
 ---
 ## Reproducibility Statement
 
-The analysis is designed to be fully traceable from the original experimental data through data cleaning, statistical analysis, visualization, and interpretation.
-
-Only experimentally documented information is reported; undocumented methodological details are not assumed or inferred.
+The analysis is designed to be fully traceable from the original experimental data through data cleaning, statistical analysis, visualization, and interpretation. Only experimentally documented information is reported; undocumented methodological details are not assumed or inferred.
