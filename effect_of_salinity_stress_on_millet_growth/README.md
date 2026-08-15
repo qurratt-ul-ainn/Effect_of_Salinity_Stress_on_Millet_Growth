@@ -1,4 +1,5 @@
-# Millet Salt Tolerance — Reproducible R Analysis
+# Millet Response to Increasing Soil Salinity
+
 
 ## Research question
 How does increasing salinity affect millet emergence, vegetative growth, root development, and biomass?
