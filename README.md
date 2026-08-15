@@ -9,6 +9,8 @@
   <strong>Experimental Research • Soil Salinity • Plant Growth • Biomass • R </strong>
 </p>
 
+---
+
 ## 1. Project Overview
 
 Soil salinity is an important constraint to crop production because increasing salt concentration in the soil environment can influence seed establishment, water relations, vegetative development, root growth and biomass accumulation.
