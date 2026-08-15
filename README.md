@@ -961,21 +961,16 @@ The analytical workflow follows the same logic: describe the observations, test 
 
 ---
 
-# 31. Author
+## 👥 Research Team
 
-## Qurrat-ul-Ain & Moazzam Riaz
+### Qurrat-ul-Ain & Moazzam Riaz
 
-**Soil Science | Experimental Research | GIS & Environmental Data Analysis**
+This experimental study was conducted as a collaborative research project by **Qurrat-ul-Ain** and **Moazzam Riaz**.
 
-Research interests:
+Both contributors were involved in the experimental work and development of this research project, with contributions spanning experimental observations, data analysis, interpretation, and research documentation.
 
-- Soil salinity and degradation
-- Soil fertility
-- Sustainable agriculture
-- GIS and spatial analysis
-- Remote sensing
-- Environmental data analysis
-- Climate-smart land management
+**Research areas:**  
+Soil Science • Soil Salinity • Experimental Research • Plant–Soil Interactions • R & Data Analysis • GIS & Environmental Analysis
 
 ---
 ## Reproducibility Statement
