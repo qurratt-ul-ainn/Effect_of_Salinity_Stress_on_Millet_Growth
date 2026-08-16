@@ -12,11 +12,9 @@
 
 ---
 
-## 1. Project Overview
+## Project Overview
 
-Soil salinity is a major constraint to crop production because increasing salt concentration can affect seed establishment, water relations, vegetative growth, root development and biomass production.
-
-This project examines the response of millet to increasing soil salinity under controlled pot conditions.
+This repository documents a controlled pot experiment examining how an increasing soil salinity gradient affected millet establishment, vegetative growth, root development, and biomass production. Five target EC levels (1, 4, 8, 12, and 16 dS m⁻¹) were evaluated using three replications per treatment, giving a total of 15 experimental units. The analysis was developed in R to move from the original experimental observations through data quality checks, statistical analysis, visualization, and interpretation.
 
 ### Research question
 
@@ -72,18 +70,19 @@ The treatment variable is used for categorical statistical comparisons, while `t
 
 The experiment records responses at several stages:
 
-| Response | Variable | Unit |
-|---|---|---|
-| Seed emergence | `emergence_pct` | % |
-| Plant height | `plant_height_cm` | cm |
-| Leaves per plant | `leaves_per_plant` | count |
-| Root length | `root_length_cm` | cm |
-| Shoot fresh weight | `shoot_fresh_weight_g` | g |
-| Shoot dry weight | `shoot_dry_weight_g` | g |
-| Root fresh weight | `root_fresh_weight_g` | g |
-| Root dry weight | `root_dry_weight_g` | g |
-| Total dry biomass | `total_dry_biomass_g` | g |
-| Relative growth | `relative_growth_pct` | % |
+Variable                Meaning                         Unit
+----------------------------------------------------------------
+pot_id                  Experimental unit              -
+treatment               Salinity treatment             -
+target_ec               Target electrical conductivity dS m⁻¹
+replication             Replicate number               -
+seeds_sown              Number of seeds planted        count
+plants_emerged          Number emerged                 count
+emergence_pct           Emergence percentage           %
+plant_height_cm         Plant height                   cm
+root_length_cm          Root length                    cm
+total_dry_biomass_g     Total dry biomass              g
+relative_growth_pct     Relative growth                %
 
 Additional experimental information includes treatment, replication, soil quantity, target EC and the recorded NaCl-related variable.
 
